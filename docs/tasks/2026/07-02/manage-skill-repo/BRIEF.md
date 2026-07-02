@@ -17,12 +17,13 @@ Make `agents-md-editor` a traceable perhapsspy-managed skill repository instead 
 
 ## Current State
 
-- Repository scaffolding is in progress.
-- Validation and install sync still need to run before this task is considered complete.
+- Repository source is published at `perhapsspy/agents-md-editor`.
+- The global installed copy is synced from the GitHub source and recorded in the global skill lock.
+- The previous Codex-only installed copy is no longer present.
 
 ## Next Step
 
-Validate the skill folder, create the git/GitHub repository, push it, and reinstall the skill from `perhapsspy/agents-md-editor`.
+Reopen only when changing the skill behavior, README wording, or install metadata.
 
 ## Working Boundary
 
