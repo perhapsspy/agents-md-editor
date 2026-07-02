@@ -31,10 +31,6 @@ Use $agents-md-editor to shrink this AGENTS.md and review what to keep, move, or
 - A rule may already be owned by README, docs, scripts, CI, or another rule file
 - You want a keep/move/remove classification and proposed diff before saving
 
-## Related Skills
-
-This skill works independently. Use [`project-context`](https://github.com/perhapsspy/project-context) for task state and [`tighten-docs`](https://github.com/perhapsspy/tighten-docs) for ordinary document cleanup.
-
 ## Support
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/perhapsspy)

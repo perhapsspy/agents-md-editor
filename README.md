@@ -31,10 +31,6 @@ $agents-md-editor 를 사용해서 이 AGENTS.md를 줄이고, 남길 내용과 
 - 같은 규칙이 README, docs, scripts, CI, 다른 rule file에 중복돼 있는지 정리해야 할 때
 - 바로 저장하기 전에 keep/move/remove 분류와 proposed diff를 먼저 보고 싶을 때
 
-## 관련 스킬
-
-이 스킬은 독립적으로 동작합니다. 작업 상태 보존은 [`project-context`](https://github.com/perhapsspy/project-context), 일반 문서 정리는 [`tighten-docs`](https://github.com/perhapsspy/tighten-docs)가 더 적합합니다.
-
 ## 지원
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/perhapsspy)
