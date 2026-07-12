@@ -4,9 +4,7 @@
 
 ## Summary
 
-`agents-md-editor` keeps always-read agent instruction files such as `AGENTS.md`, `CLAUDE.md`, Cursor rules, and Copilot instructions small and durable.
-
-It keeps only rules that should change future agent behavior in always-read files, and classifies temporary state, onboarding, detailed reference material, and duplicated policy into better-owned surfaces.
+`agents-md-editor` keeps always-read files such as `AGENTS.md` and `CLAUDE.md` from growing into session logs and reference manuals. It leaves only rules that should remain active, then moves temporary state, onboarding, and duplicate guidance to a better home.
 
 ## Quick Start
 
